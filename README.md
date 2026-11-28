@@ -125,6 +125,23 @@ My contribution is to define the problem, develop the concept, set priorities an
 
 The technologies listed here describe the projects’ implementation stacks. They do not imply that I wrote every component manually or have equal expertise in every technology.
 
+## AI Tools & Development Workflow
+
+I choose tools for the task, compare results across models and develop in small steps. I test changes, investigate errors and use automation for repeatable work.
+
+- **Generative AI** — ChatGPT, Claude, Gemini and Qwen
+- **AI-assisted development** — OpenAI Codex, Lovable and Claude Code (currently learning)
+- **Creative content** — Leonardo AI, Google Flow and Suno
+- **Backend, hosting and version control** — Supabase, Cloudflare and GitHub
+- **Automation and integrations** — Make and Cal.com
+- **Knowledge management and privacy** — Notion and Termly
+
+## AI Education & Knowledge Sharing
+
+I designed and led **Not a Tech Girl, Still Coding**, a hands-on AI workshop for women without an IT background. Using step-by-step guides, participants learn how to work with AI tools and build a first version of their own digital idea.
+
+I also develop workbooks, reflection exercises and retreat materials. Some are available in my [digital resources library](https://feeltohealwithme.com/digital-resources).
+
 ## About This Portfolio
 
 This repository documents selected projects and my contribution to them. Application source code, internal configuration and user or client data remain private.
